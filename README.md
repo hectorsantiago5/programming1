@@ -1,3 +1,3 @@
 # programming1
 
-This is a repository of projects worked on during programming 1.
+This is a repository of some projects I worked on during programming 1.
