@@ -1,12 +1,12 @@
 
 /**
- * Write a description of class resort here.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author (Hector Santiago)
+ *
  */
+
 import java.util.Scanner; 
-import java.text.DecimalFormat;
+
 public class resort
 {
     public static void main(String[] args) {
@@ -16,8 +16,7 @@ public class resort
         double days; // Holds the number of days they stay
         int index; // Controls the loop
         
-        Scanner keyboard=new Scanner(System.in); 
-        DecimalFormat df=new DecimalFormat(" #,###,##0.00");  
+        Scanner keyboard=new Scanner(System.in);  
         
         System.out.print("Welcome to Caldwell Spa & Resort!\n We hope you enjoy your stay!\n");
         
