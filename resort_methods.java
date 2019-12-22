@@ -1,9 +1,8 @@
 
 /**
- * Write a description of class resort_methods here.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author (Hector Santiago)
+ *
  */
 public class resort_methods
 {
